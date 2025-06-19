@@ -35,8 +35,8 @@ StackUniversity is a Streamlit-based web application designed to help students e
 
 1. **Clone the Repository** (or download the source code):
    ```bash
-   git clone https://github.com/your-username/stackuniversity.git
-   cd stackuniversity
+   git clone https://github.com/zuck30/StackUniversity.git
+   cd StackUniversity
    ```
 
 2. **Create a Virtual Environment** (recommended):
@@ -140,4 +140,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, contact [your-email@example.com](mailto:your-email@example.com) or open an issue on the GitHub repository.
+For questions or feedback, contact [sheldoncodesdaily@gmail.com](mailto:sheldoncodesdaily@gmail.com) or open an issue on the GitHub repository.
